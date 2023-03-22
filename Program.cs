@@ -1,16 +1,27 @@
-﻿namespace AddressBookSystem
+﻿using System;
+
+namespace AddressBookSystem
 {
     public class Program
     {
         static void Main(string[] args)
         {
             Console.Clear();
+            List<Contacts> Person = new List<Contacts>();
             Console.WriteLine("*****----Welcome to Address Book Program----*****\n");
             bool flag = true;
             while (flag)
             {
                 Console.WriteLine("Please select given options:---\n--------------------");
-                Console.WriteLine("1.AddContacts\n2.DisplayDetails\n3.EditPersonDetails\n4.DeletePersonByUsingPersonName\n5.AddMultiplePerson\n6.CreateDictionaryContacts\n7.DisplayDictionaryList\n17.Exit\n");
+                Console.WriteLine("1.AddContacts\n" +
+                    "2.DisplayDetails\n" +
+                    "3.EditPersonDetails\n" +
+                    "4.DeletePersonByUsingPersonName\n" +
+                    "5.AddMultiplePerson\n" +
+                    "6.CreateDictionaryContacts\n" +
+                    "7.DisplayDictionaryList\n" +
+                    "8.CheckDuplicateEntryOfSamePersonByPersonNameInList\n" +
+                    "17.Exit\n");
                 int option=Convert.ToInt32(Console.ReadLine());
                 switch(option)
                 {
@@ -40,6 +51,10 @@
                         break;
                     case 7:
                         AddressBookMain.DisplayDictionaryList();
+                        Console.Clear();
+                        break;
+                    case 8:
+                        AddressBookMain.CheckDuplicateEntryOfSamePersonByName();
                         Console.Clear();
                         break;
                     case 17:
