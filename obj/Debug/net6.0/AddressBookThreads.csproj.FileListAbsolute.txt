@@ -1,0 +1,15 @@
+E:\Bridgelabz_C_Sharp\AddressBookThreads\AddressBookThreads\bin\Debug\net6.0\AddressBookThreads.exe
+E:\Bridgelabz_C_Sharp\AddressBookThreads\AddressBookThreads\bin\Debug\net6.0\AddressBookThreads.deps.json
+E:\Bridgelabz_C_Sharp\AddressBookThreads\AddressBookThreads\bin\Debug\net6.0\AddressBookThreads.runtimeconfig.json
+E:\Bridgelabz_C_Sharp\AddressBookThreads\AddressBookThreads\bin\Debug\net6.0\AddressBookThreads.dll
+E:\Bridgelabz_C_Sharp\AddressBookThreads\AddressBookThreads\bin\Debug\net6.0\AddressBookThreads.pdb
+E:\Bridgelabz_C_Sharp\AddressBookThreads\AddressBookThreads\obj\Debug\net6.0\AddressBookThreads.csproj.AssemblyReference.cache
+E:\Bridgelabz_C_Sharp\AddressBookThreads\AddressBookThreads\obj\Debug\net6.0\AddressBookThreads.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bridgelabz_C_Sharp\AddressBookThreads\AddressBookThreads\obj\Debug\net6.0\AddressBookThreads.AssemblyInfoInputs.cache
+E:\Bridgelabz_C_Sharp\AddressBookThreads\AddressBookThreads\obj\Debug\net6.0\AddressBookThreads.AssemblyInfo.cs
+E:\Bridgelabz_C_Sharp\AddressBookThreads\AddressBookThreads\obj\Debug\net6.0\AddressBookThreads.csproj.CoreCompileInputs.cache
+E:\Bridgelabz_C_Sharp\AddressBookThreads\AddressBookThreads\obj\Debug\net6.0\AddressBookThreads.dll
+E:\Bridgelabz_C_Sharp\AddressBookThreads\AddressBookThreads\obj\Debug\net6.0\refint\AddressBookThreads.dll
+E:\Bridgelabz_C_Sharp\AddressBookThreads\AddressBookThreads\obj\Debug\net6.0\AddressBookThreads.pdb
+E:\Bridgelabz_C_Sharp\AddressBookThreads\AddressBookThreads\obj\Debug\net6.0\AddressBookThreads.genruntimeconfig.cache
+E:\Bridgelabz_C_Sharp\AddressBookThreads\AddressBookThreads\obj\Debug\net6.0\ref\AddressBookThreads.dll
